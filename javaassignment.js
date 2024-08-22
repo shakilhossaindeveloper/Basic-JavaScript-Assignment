@@ -2,6 +2,7 @@
 // Create a variable called carName, assign the value Volvo to it.
 
 let carName = "Volvo";
+console.log(carName)
 
 //On one single line, declare three variables with the following names and values:
 
@@ -9,7 +10,7 @@ let carName = "Volvo";
 let firstName = "John";     //1st variable name is firstName
 let lastName = "Doe";    //variable value  is Doe this is string data type
 let age = 35;              //variable name is age And Value 35
-
+console.log(firstName + " " + lastName + " " + age)
 
 
 // Use the correct assignment operator that will 
